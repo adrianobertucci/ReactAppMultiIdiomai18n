@@ -1,0 +1,6 @@
+{
+    "title": "Exemplo de aplicação com React(TypeScript) com i18n",
+    "description": {
+      "part1": "Aplicação usada como modelo para testarmos aplicações multi-idioma com React e i18n."
+    }
+  }
